@@ -53,8 +53,9 @@ Atualmente sou estudante de **`Desenvolvimento de Sistemas`** na Etec Professor 
   <img align="center" height="500" width="700" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2p2cmw4MHpuMm1rd2ZrenVrNmVmZXE4cTE4a3Zxa3N3MnFja255NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif" alt="Imagem">
 </p>
 
-<br><br>
+<br>
 
+## 📊 GitHub Stats 
 <!-- GithubStats -->
 <img
 align="left"
