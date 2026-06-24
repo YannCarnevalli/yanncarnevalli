@@ -21,7 +21,7 @@ Atualmente sou estudante de **`Desenvolvimento de Sistemas`** na Etec Professor 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannpcarnevalli/)
 
-##  Skills
+##  💻 Skills
 <!-- Linguagens -->
   <div style="flex-basis: 48%;">
     <h3>Languages</h3>
